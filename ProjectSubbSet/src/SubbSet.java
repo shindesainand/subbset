@@ -92,7 +92,7 @@ public class SubbSet {
 		catch (Exception e) {
 			// TODO Auto-generated catch block
 			//e.printStackTrace();
-			System.out.println("There was a problem creating .srt file! :(");
+			System.out.println("There was a problem creating the .srt file! :(");
 		}
 	}
 	
