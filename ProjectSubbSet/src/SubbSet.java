@@ -18,7 +18,7 @@ public class SubbSet {
 		}
 		if(args.length > 1)
 		{
-			System.out.println("Whoa! Slow down there friend! I can take only one file at a time!");
+			System.out.println("Whoa! Slow down there my friend! I can take only one file at a time!");
 			System.exit(1);
 		}
 		try
