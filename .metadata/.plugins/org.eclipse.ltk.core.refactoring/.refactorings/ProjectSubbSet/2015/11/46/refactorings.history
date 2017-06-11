@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Downloader&apos; to &apos;SubbSet&apos;&#x0D;&#x0A;- Original project: &apos;ProjectSubbSet&apos;&#x0D;&#x0A;- Original element: &apos;Downloader&apos;&#x0D;&#x0A;- Renamed element: &apos;SubbSet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Downloader&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Downloader.java[Downloader" matchStrategy="1" name="SubbSet" qualified="false" references="true" similarDeclarations="false" stamp="1447151191635" textual="false" version="1.0"/>
+</session>
